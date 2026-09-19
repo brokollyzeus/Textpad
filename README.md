@@ -208,4 +208,4 @@ TextPad is offered as a complete **free version** with all features and updates 
 **Download TextPad today and elevate your text editing experience!**
 
 ---
-**Last updated:** 2026-09-19 10:22:10 UTC
+**Last updated:** 2026-09-19 14:11:19 UTC
